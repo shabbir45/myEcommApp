@@ -2,3 +2,4 @@ This is file1
 Today is Sunday
 Welcome everyone
 bye
+Adding a new line
