@@ -7,3 +7,4 @@ hello
 ejnjnc
 
 This change is made in Remote Repo .
+New Line added via command line
