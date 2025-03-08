@@ -5,3 +5,5 @@ today is a good day
 djsjsdnc
 
 dcj
+
+This is new line in File2
