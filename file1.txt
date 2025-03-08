@@ -7,3 +7,4 @@ change from saturday 15h Feb
 a new commit for feature A
 This is a new commit
 This is a new line added
+This is another new line in new folder
