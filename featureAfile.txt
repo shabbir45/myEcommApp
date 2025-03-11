@@ -1,3 +1,0 @@
-This a feature a
-here i will be handlng credit card functionality
-this i a new commit on ffeatureA file
